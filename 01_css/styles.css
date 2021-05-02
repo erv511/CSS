@@ -1,0 +1,41 @@
+* {
+  text-align: center;
+  color: blue;
+}
+
+body {
+  background-color: lightblue;
+}
+h1 {
+  color: with;
+  text-align: center;
+}
+
+p.end {
+  text-align: end;
+  color: sandybrown;
+}
+
+p.large {
+  font-size: 300%;
+}
+
+p {
+  color: red;
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+#para1 {
+  text-align: justify;
+  color: rgb(255, 6, 201);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  text-align: center;
+  color: chartreuse;
+}
